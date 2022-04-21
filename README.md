@@ -1,5 +1,5 @@
 <doby>
-<h1 align="center"><strong>Opa! Eu sou Charlan Barneche!</strong><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+ <h1 align="center"><img alt="HTML5" align="center" src="https://i.imgur.com/p9dHFOk.png" width="500px"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <br></br>
 <div align="center">
   <img alt="HTML5" align="right" src="https://media.giphy.com/media/HurTrkKfoddBGmheSP/giphy.gif" width="350px"> 
@@ -40,9 +40,25 @@
 
 
 <div align="center">
-<p align="center"><a href="https://www.linkedin.com/in/charlan-barneche-649814223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.facebook.com/judas.rousseff" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/charlanbarneche/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://api.whatsapp.com/send?phone=5553997000486" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<p align="center"><a href="https://www.linkedin.com/in/charlan-barneche-649814223/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.facebook.com/judas.rousseff" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/charlanbarneche/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://api.whatsapp.com/send?phone=5553997000486" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p>
 
+<br></br>
+<h2 align="center">𝗘́ 𝗨𝗠 𝗣𝗥𝗔𝗭𝗘𝗥 𝗧𝗘𝗟𝗢 𝗔𝗤𝗨𝗜, 𝗘𝗦𝗣𝗘𝗥𝗢 𝗤𝗨𝗘 𝗣𝗢𝗦𝗦𝗔𝗠𝗢𝗦 𝗖𝗢𝗡𝗩𝗘𝗥𝗦𝗔𝗥!</h2>
 
-</p>
+<div align='center'>
+<img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100px">
+<img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100px">
+<img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100px">
+<img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100px">
+<img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100px">
+<img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100px">
+<img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100px">
+<img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100px">
+<img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100px">
+</div>
+<br></br>
+<div>
+<img align='center' alt="pokemon" src="https://media.giphy.com/media/TZco470UACpNK/giphy.gif" width="100px">
+</div>
 </div>
 <doby>
