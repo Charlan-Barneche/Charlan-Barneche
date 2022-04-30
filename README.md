@@ -41,6 +41,7 @@
 
 <div align="center">
 <p align="center"><a href="https://www.linkedin.com/in/charlan-barneche-649814223/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.facebook.com/judas.rousseff" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> <a href="https://www.instagram.com/charlanbarneche/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://api.whatsapp.com/send?phone=5553997000486" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p>
+ <p  align="center"><a href="https://discord.gg/U258JdJaqy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100px"/></a></p>
 
 <br></br>
 <h2 align="center">𝗘́ 𝗨𝗠 𝗣𝗥𝗔𝗭𝗘𝗥 𝗧𝗘𝗟𝗢 𝗔𝗤𝗨𝗜, 𝗘𝗦𝗣𝗘𝗥𝗢 𝗤𝗨𝗘 𝗣𝗢𝗦𝗦𝗔𝗠𝗢𝗦 𝗖𝗢𝗡𝗩𝗘𝗥𝗦𝗔𝗥!</h2>
