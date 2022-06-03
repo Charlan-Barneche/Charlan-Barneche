@@ -1,4 +1,4 @@
-<doby>
+<body>
  <h1 align="center"><img alt="HTML5" align="center" src="https://i.imgur.com/p9dHFOk.png" width="500px"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <br></br>
 <div align="center">
@@ -62,4 +62,4 @@
 <img align='center' alt="pokemon" src="https://media.giphy.com/media/TZco470UACpNK/giphy.gif" width="100px">
 </div>
 </div>
-<doby>
+<body>
