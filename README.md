@@ -45,7 +45,7 @@
     <p  align="center"><a href="https://discord.gg/U258JdJaqy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="100"/></a></p>
    
    <br></br>
-   <h2 align="center">𝗘́ 𝗨𝗠 𝗣𝗥𝗔𝗭𝗘𝗥 𝗧𝗘𝗟𝗢 𝗔𝗤𝗨𝗜, 𝗘𝗦𝗣𝗘𝗥𝗢 𝗤𝗨𝗘 𝗣𝗢𝗦𝗦𝗔𝗠𝗢𝗦 𝗖𝗢𝗡𝗩𝗘𝗥𝗦𝗔𝗥!</h2>
+   <h2 align="center">𝗘́ 𝗨𝗠 𝗣𝗥𝗔𝗭𝗘𝗥 𝗧𝗘̂-𝗟𝗢 𝗔𝗤𝗨𝗜, 𝗘𝗦𝗣𝗘𝗥𝗢 𝗤𝗨𝗘 𝗣𝗢𝗦𝗦𝗔𝗠𝗢𝗦 𝗖𝗢𝗡𝗩𝗘𝗥𝗦𝗔𝗥!</h2>
    
    <div align='center'>
    <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
