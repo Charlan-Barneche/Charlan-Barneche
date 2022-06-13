@@ -15,11 +15,20 @@
    <br></br>
    
    <h2 align='center'>⚡ <strong>𝗧𝗘𝗖𝗡𝗢𝗟𝗢𝗚𝗜𝗔𝗦 𝗤𝗨𝗘 𝗗𝗢𝗠𝗜𝗡𝗢</strong> ⚡</h2>
-   <!--gambiarra?-->
+   <!--gambiarra1-linguagens-->
    <div align='center'>&nbsp&nbsp HTML 5&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp JavaScript &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  CSS3 &nbsp&nbsp&nbsp&nbsp&nbsp</div>
    <div align='center'>
-   <img align="center" width="100" alt="HTML5" src="https://i.imgur.com/BzwyCup.png"> &emsp; <img align="center" width="100" alt="JS" src="https://i.imgur.com/KbVl6l3.png"> &emsp; <img align="center" width="100" alt="CSS3" src="https://i.imgur.com/ZrplmED.png">
-   </div>
+   <img align="center" width="100" alt="HTML5" src="https://i.imgur.com/BzwyCup.png"> &emsp; <img align="center" width="100" alt="JS" src="https://i.imgur.com/KbVl6l3.png"> &emsp; <img align="center" width="100" alt="CSS3" src="https://i.imgur.com/ZrplmED.png"> 
+    </div>
+    <br></br>
+    <div align='center'>
+    <!--gambiarra2-git/github-->
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp GIT &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp GITHUB &nbsp&nbsp
+    </div>
+    <div align='center'>
+  <img align="center" width="100" alt="GIT" src="https://i.imgur.com/zajJeZX.png"> &emsp; <img align="center" width="80" alt="GITHUB" src="https://i.imgur.com/0iryWea.png"> 
+    </div>
+
    
    <br></br> 
    
