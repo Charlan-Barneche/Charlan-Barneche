@@ -5,9 +5,9 @@
    <div align="center">
      <img alt="HTML5" align="right" src="https://media.giphy.com/media/HurTrkKfoddBGmheSP/giphy.gif" width="350"> 
    &emsp; <p align='left' ><img align='center' alt="HTML5" src="https://media.giphy.com/media/H2SmMuLD1AWo4EtybI/giphy.gif" width="10">&emsp;💻 <strong>Desenvolvedor Fullstack JR </strong></p>
-   &emsp; <p align='left' ><img align='center' alt="HTML5" src="https://media.giphy.com/media/H2SmMuLD1AWo4EtybI/giphy.gif" width="10">&emsp; 🛸<strong> Ui Designer</strong></p>
+   &emsp; <p align='left' ><img align='center' alt="HTML5" src="https://media.giphy.com/media/H2SmMuLD1AWo4EtybI/giphy.gif" width="10">&emsp; 🛸<strong> Ui/Ux Designer</strong></p>
    &emsp; <p align='left' ><img align='center' alt="HTML5" src="https://media.giphy.com/media/H2SmMuLD1AWo4EtybI/giphy.gif" width="10">&emsp; 📚 <strong>Em formação...<img src="https://media.giphy.com/media/l4FGIO2vCfJkakBtC/giphy.gif" align="center" width="25"> </p>
-   &emsp; <p align='left' ><img align='center' alt="HTML5" src="https://media.giphy.com/media/H2SmMuLD1AWo4EtybI/giphy.gif" width="10"> &emsp; 🤘<strong> Atualmente estudante na OneBitCode </strong> </p>
+   &emsp; <p align='left' ><img align='center' alt="HTML5" src="https://media.giphy.com/media/H2SmMuLD1AWo4EtybI/giphy.gif" width="10"> &emsp; 🤘<strong> Atualmente estudante na OneBitCode e na Digital Innovation One. </strong> </p>
    &emsp; <p align='left' ><img align='center' alt="HTML5" src="https://media.giphy.com/media/H2SmMuLD1AWo4EtybI/giphy.gif" width="10">&emsp; 🦾 <strong>Meus projetos estão disponiveis em :</strong></p>
    <p align='left'>[ https://charlan-barneche.github.io/portifolio/ ] </p>
    </div>
