@@ -63,7 +63,7 @@
   <!-- redes sociais -->
    
    <br></br>
-   <h2 align="center">𝗘𝗦𝗣𝗘𝗥𝗢 𝗤𝗨𝗘 𝗣𝗢𝗦𝗦𝗔𝗠𝗢𝗦 𝗖𝗢𝗡𝗩𝗘𝗥𝗦𝗔𝗥!</h2>
+   <h2 align="center">𝗩𝗔𝗠𝗢𝗦 𝗖𝗢𝗡𝗩𝗘𝗥𝗦𝗔𝗥!</h2>
    
    <div align='center'>
    <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
@@ -77,8 +77,6 @@
    <img align='center' alt="nuvens" src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width="100">
    </div>
 
-  <!-- finalização e nuvens -->
-
    <br></br>
   
    <div>
@@ -86,6 +84,6 @@
    </div>
    </div>
 
-  <!-- pokemon -->
+  <!-- finalização nuvens pokemon -->
 
    <body>
