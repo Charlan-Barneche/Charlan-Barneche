@@ -14,7 +14,7 @@
    </div>
    <!--gif e Legenda -->
 
-   <br></br>
+   <br></br><br></br>
    
    &emsp;&emsp;<h2 align='center'>⚡ <strong>𝗧𝗘𝗖𝗡𝗢𝗟𝗢𝗚𝗜𝗔𝗦 𝗤𝗨𝗘 𝗗𝗢𝗠𝗜𝗡𝗢</strong> ⚡</h2>
   
