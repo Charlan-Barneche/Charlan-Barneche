@@ -10,7 +10,7 @@
    &emsp; <p align='left' ><img align='center' alt="HTML5" src="https://media.giphy.com/media/H2SmMuLD1AWo4EtybI/giphy.gif" width="10">&emsp;💻 <strong> Desenvolvedor Front End</strong></p>
    &emsp; <p align='left' ><img align='center' alt="HTML5" src="https://media.giphy.com/media/H2SmMuLD1AWo4EtybI/giphy.gif" width="10"> &emsp; 📚 <strong> OneBitCode, Digital Innovation One. </strong> </p>
    &emsp; <p align='left' ><img align='center' alt="HTML5" src="https://media.giphy.com/media/H2SmMuLD1AWo4EtybI/giphy.gif" width="10">&emsp; 🦾 <strong> Alguns dos meus projetos estão disponiveis em :</strong></p>
-   <p align='left'>[ Em breve <img align='center' alt="Loading" src="https://media.giphy.com/media/Sv8gUHtkqgylj9sEvS/giphy.gif" width="2">] </p>
+   <p align='left'>[Em breve <img align='center' alt="Loading" src="https://media.giphy.com/media/grNkIEN4dkiMXFLIE9/giphy.gif" width="40">] </p>
    </div>
    <!--gif e Legenda -->
 
